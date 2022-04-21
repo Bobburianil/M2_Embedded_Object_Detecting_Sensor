@@ -1,1 +1,1 @@
-# M2_Object_Detecting_Sensor
+# M2_Embedded_Object_Detecting_Sensor
