@@ -9,22 +9,3 @@
 
 ![image](https://user-images.githubusercontent.com/101082480/164648912-287c6d65-0e79-4db3-aeb8-0fb08a28c8ae.png)
 
-## CONTENTS
-
-- 1_Requirements
-  * High Level Requirements
-  * Low Level Requirements
-- 2_Architecture
-  * Block Diagram
-  * Flow Chart
-  * System Design
-  * Sub-System Design
-- 3_Implementation
-  * Build
-  * Inc
-  * Src
-  * Unity
-- 4_TestPlanAndOutput
-  * Test Plan
-  * Simulide Output
-- 5_Report
